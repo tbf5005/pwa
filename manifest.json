@@ -1,5 +1,5 @@
 {
-    "name" : "",
+    "name" : "pwa-test-app",
     "short_name" : "pwa-test",
     "start_url" : "/?source=pwa",
     "scope" : ".",
