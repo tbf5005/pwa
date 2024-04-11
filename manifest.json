@@ -45,8 +45,8 @@
     ],
     "screenshots" : [
         {
-          "src": "img/screenshot.jpg",
-          "sizes": "236x481",
+          "src": "img/screenshot-320.jpg",
+          "sizes": "320x320",
           "type": "image/jpeg",
           "form_factor": "narrow",
           "label": "Homescreen of pwa App"
