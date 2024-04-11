@@ -12,35 +12,43 @@
         {
             "src" : "/img/logo/logo-32.png",
             "sizes" : "32x32",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-50.png",
             "sizes" : "50x50",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-80.png",
             "sizes" : "80x80",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-100.png",
             "sizes" : "100x100",
-            "type" : "image/png"
+            "type" : "image/png", 
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-150.png",
             "sizes" : "150x150",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-200.png",
             "sizes" : "200x200",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-250.png",
             "sizes" : "250x250",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         },{
             "src" : "/img/logo/logo-500.png",
             "sizes" : "500x500",
-            "type" : "image/png"
+            "type" : "image/png",
+            "purpose": "maskable"
         }
     ],
     "screenshots" : [
