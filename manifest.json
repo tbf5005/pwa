@@ -42,5 +42,14 @@
             "sizes" : "500x500",
             "type" : "image/png"
         }
-    ]
+    ],
+    "screenshots" : [
+        {
+          "src": "img/screenshot.jpg",
+          "sizes": "236x481",
+          "type": "image/webp",
+          "form_factor": "narrow",
+          "label": "Homescreen of pwa App"
+        }
+      ]
 }
