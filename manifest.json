@@ -10,35 +10,35 @@
     "theme_color" : "#1e88e5",
     "icons" : [
         {
-            "src" : "./img/logo/logo-32.png",
+            "src" : "/img/logo/logo-32.png",
             "sizes" : "32x32",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-50.png",
+            "src" : "/img/logo/logo-50.png",
             "sizes" : "50x50",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-80.png",
+            "src" : "/img/logo/logo-80.png",
             "sizes" : "80x80",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-100.png",
+            "src" : "/img/logo/logo-100.png",
             "sizes" : "100x100",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-150.png",
+            "src" : "/img/logo/logo-150.png",
             "sizes" : "150x150",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-200.png",
+            "src" : "/img/logo/logo-200.png",
             "sizes" : "200x200",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-250.png",
+            "src" : "/img/logo/logo-250.png",
             "sizes" : "250x250",
             "type" : "image/png"
         },{
-            "src" : "./img/logo/logo-500.png",
+            "src" : "/img/logo/logo-500.png",
             "sizes" : "500x500",
             "type" : "image/png"
         }
