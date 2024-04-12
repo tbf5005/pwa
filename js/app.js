@@ -16,8 +16,8 @@ window.addEventListener('beforeinstallprompt' , (e) => {
     installPromptEvent = e;
 });
 
-document.addEventListener("DOMContentLoaded", function(e) {
-     e.preventDefault();
+document.querySelector('#install-app').addEventListener('click' , (e) => {
+    e.preventDefault();
     console.log(installPromptEvent);
     if(installPromptEvent) {
         installPromptEvent.prompt();
@@ -33,4 +33,4 @@ document.addEventListener("DOMContentLoaded", function(e) {
                 installPromptEvent = null;
             })
     }
-});
+})
