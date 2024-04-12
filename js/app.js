@@ -16,8 +16,8 @@ window.addEventListener('beforeinstallprompt' , (e) => {
     installPromptEvent = e;
 });
 
-window.onload("DOMContentLoaded", (e) => {
-    e.preventDefault();
+document.addEventListener("DOMContentLoaded", function(e) {
+     e.preventDefault();
     console.log(installPromptEvent);
     if(installPromptEvent) {
         installPromptEvent.prompt();
@@ -33,4 +33,4 @@ window.onload("DOMContentLoaded", (e) => {
                 installPromptEvent = null;
             })
     }
-})
+});
