@@ -16,7 +16,7 @@ window.addEventListener('beforeinstallprompt' , (e) => {
     installPromptEvent = e;
 });
 
-document.querySelector('.install-app').addEventListener('click' , (e) => {
+document.querySelector('.install-app a').addEventListener('click' , (e) => {
     e.preventDefault();
     console.log(installPromptEvent);
     if(installPromptEvent) {
